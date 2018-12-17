@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificarionBug</string>
+    <string name="MessageNotifier_d_new_messages_in_d_conversations">%1$d messages from %2$d chats</string>
+</resources>
